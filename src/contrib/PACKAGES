@@ -1,0 +1,10 @@
+Package: RcppMLPACK
+Version: 2.1.1-0.0
+Depends: R (>= 3.2.0)
+Imports: Rcpp (>= 0.12.4)
+LinkingTo: Rcpp, RcppArmadillo
+License: GPL (>= 2)
+OS_type: unix
+MD5sum: 6d1c4d75793e00b7722744aee871078b
+NeedsCompilation: yes
+
