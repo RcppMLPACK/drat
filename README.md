@@ -9,9 +9,9 @@ packages. In particular it used for pre-release of _RcppMLPACK2_ which is based 
 
 ```{.r}
 # first add the repo
-drat::add("RcppMLPACK"}
+drat::addRepo("RcppMLPACK")
 # either install just one or more given packages
-install.package("RcppMLPACK2")     
+install.packages("RcppMLPACK")
 # or update already installed packages
 update.packages()
 ```
